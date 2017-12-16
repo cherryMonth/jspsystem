@@ -4,4 +4,4 @@ build/
 *.project
 *.classpath
 *.MF
-
+*..gitignore
