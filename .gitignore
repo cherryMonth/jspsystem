@@ -1,7 +1,0 @@
-*.class
-.settings/
-build/
-*.project
-*.classpath
-*.MF
-*..gitignore
